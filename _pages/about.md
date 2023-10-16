@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a junior student from [the School of Physics] (https://physics.nju.edu.cn), [Nanjing University] (https://jw.nju.edu.cn). I'm interested in Ultrafast Optics, Quantum physics. In this web, I'll upload some of my study notes and my feelings whenever I want. I'd like to upload my notes once a day. Also, I'll share my reading notes about documents.
+I'm a junior student from [the School of Physics](https://physics.nju.edu.cn), [Nanjing University](https://jw.nju.edu.cn). I'm interested in Ultrafast Optics, Quantum physics. In this web, I'll upload some of my study notes and my feelings whenever I want. I'd like to upload my notes once a day. Also, I'll share my reading notes about documents.
 
 Current study contents
 ======
